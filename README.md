@@ -5,5 +5,6 @@ Curso: Engenharia de Software
 
 Campus: Praça da Liberdade
 
-Alunos: Ronan Felipe Nascimento de Souza & Gabriel Santana
+Alunos: Ronan Felipe Nascimento de Souza & Gabriel Santana Barroso
+
 
