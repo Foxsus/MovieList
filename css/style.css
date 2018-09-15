@@ -1,4 +1,4 @@
-html,body {
+main {
     font-family: 'Raleway', sans-serif;
     padding: 1em 2em;
     font-size: 18px;
@@ -18,4 +18,9 @@ h1 {
 h2 {
     color: #888;
     font-size: 2em;
+}
+
+.git-icon {
+    background: url('../images/github-logo.png') left center no-repeat;
+    padding-left: 15px;
 }
