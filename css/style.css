@@ -24,3 +24,32 @@ h2 {
     background: url('../images/github-logo.png') left center no-repeat;
     padding-left: 15px;
 }
+
+.mdl-card {
+    background: #d3d3d3;
+}
+
+.demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+}
+
+.demo-card-square > .mdl-card__title {
+    color: #fff;
+    background: url('../images/avatar.jpg');
+}
+
+.demo-card-square-hugo.mdl-card {
+    width: 300px;
+    height: 320px;
+}
+
+.demo-card-square-hugo > .mdl-card__title {
+    color: #fff;
+    background: url('../images/HugoCabret.jpg');
+}
+
+.demo-card-square-network > .mdl-card__title {
+    color: #fff;
+    background: url('../images/social.jpg');
+}
