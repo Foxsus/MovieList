@@ -59,7 +59,6 @@
                 <a class="mdl-navigation__link" href="">Indicados ao Próximo Oscar</a>
             </nav>
         </div>
-
         <dialog class="mdl-dialog" id="esconder">
             <h4 class="mdl-dialog__title">Permitir coleta de dados?</h4>
             <div class="mdl-dialog__content">
@@ -80,7 +79,6 @@
                 dialogPolyfill.registerDialog(dialog);
             }
             setTimeout(function() {
-                console.log(dialog);
                 dialog.showModal();
             }, 2000);
             dialog.querySelector('.close').addEventListener('click', function() {
@@ -94,21 +92,25 @@
         </script>
         <main class="mdl-layout__content">
             <div class="page-content">
-                <div>
-                    <h1>
-                        CineSpot seu site sobre filmes
-                        <span class="txt-rotate" data-period="2000" data-rotate='["vencedores do Oscar.", "com foco em som e imagem!!"]'></span>
-                    </h1>
-                    <h2>Vencedores Oscar desde 2010!</h2>
+                <div class="mdl-grid">
+                    <div class="mdl-cell mdl-cell--1-col"></div>
+                    <div class="">
+                        <div>
+                            <h1>
+                                CineSpot seu site sobre filmes
+                                <span class="txt-rotate" data-period="2000" data-rotate='["vencedores do Oscar.", "com foco em som e imagem!!"]'></span>
+                            </h1>
+                            <h2>Vencedores Oscar desde 2010!</h2>
+                        </div>
+                        Portal dedicado aos admiradores da sétima arte. <br>
+                        Com foco nos filmes ganhadores do prêmio Oscar em quesitos de som e imagem. <br>
+                        Somos apaixonados pela qualidade do som, efeitos sonoros, trilhas sonoras, qualidade da imagem. <br>
+                        Animação, efeitos especiais. Todos são quesitos que nós observamos e gostamos bastante. <br>
+                        <br>
+                        <br>
+                    </div>
                 </div>
-                Portal dedicado aos admiradores da sétima arte. <br>
-                Com foco nos filmes ganhadores do prêmio Oscar em quesitos de som e imagem. <br>
-                Somos apaixonados pela qualidade do som, efeitos sonoros, trilhas sonoras, qualidade da imagem. <br>
-                Animação, efeitos especiais. Todos são quesitos que nós observamos e gostamos bastante. <br>
 
-
-                <br>
-                <br>
                 <div class="mdl-grid">
                     <div class="mdl-cell mdl-cell--1-col">
                         <!--Espaçamento entre a borda esquerda e o card-->
@@ -211,7 +213,6 @@
                 </div>
             </footer>
         </main>
-
     </div>
 </body>
 </html>
