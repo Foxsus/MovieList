@@ -1,0 +1,128 @@
+//parenteses somente indicando nomes dos filmes, não são exibidos em "Detalhes"
+
+(A rede social)
+Ficha técnica: <br>
+Ano: 2010 <br>
+País de origem: Estados Unidos <br>
+Direção: David Fincher <br>
+Elenco: Jesse Eisenberg, Andrew Garfield, Justin Timberlake <br>
+Gênero: Drama <br>
+Música: Trent Reznor, Atticus Ross <br>
+Classificação: 14 anos <br>
+Duração: 121 min <br> <br>
+
+Sinopse: <br>
+Em uma noite de outono em 2003, Mark Zuckerberg, analista de sistemas graduado em Harvard, se senta em seu computador e começa a trabalhar em uma nova ideia. Apenas seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso da rede social Facebook. O sucesso, no entanto, o leva a complicações em sua vida social e profissional.
+
+--------------------------------------------------------------------------------------------
+
+(O artista)
+Ficha técnica: <br>
+Ano: 2011 <br>
+País de origem: França <br>
+Direção: Michel Hazanavicius <br>
+Elenco: Jean Dujardin, Bérénice Bejo <br>
+Gênero: Comédia <br>
+Música: Ludovic Bource <br>
+Classificação: 12 anos <br>
+Duração: 100 min <br> <br>
+
+Sinopse: <br>
+Hollywood, 1927. George Valentin é um consagrado ator do cinema mudo a quem tudo e todos sorriem. A chegada dos filmes sonoros vai mergulhá-lo no esquecimento. Peppy Miller, jovem figurante, em contrapartida, será propulsada até ao firmamento das estrelas.
+
+--------------------------------------------------------------------------------------------
+
+(As aventuras de Pi)
+Ficha técnica: <br>
+Ano: 2012 <br>
+País de origem: Estados Unidos <br>
+Direção: Ang Lee <br>
+Elenco: Suraj Sharma, Irrfan Khan, Adil Hussain <br>
+Gênero: Aventura <br>
+Música: Mychael Danna <br>
+Classificação: 10 anos <br>
+Duração: 127 min <br> <br>
+
+Sinopse: <br>
+Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.
+
+--------------------------------------------------------------------------------------------
+
+(Gravidade)
+Ficha técnica: <br>
+Ano: 2013 <br>
+País de origem: Estados Unidos, Reino Unido <br>
+Direção: Alfonso Cuarón <br>
+Elenco: Sandra Bullock, George Clooney, Ed Harris <br>
+Gênero: Drama <br>
+Música: Steven Price <br>
+Classificação: 12 anos <br>
+Duração: 91 min <br> <br>
+
+Sinopse: <br>
+Sandra Bullock interpreta a Dra. Ryan Stone, uma brilhante engenheira médica em sua primeira missão espacial, ao lado do veterano Matt Kowalsky no comando de seu último voo antes da aposentadoria. Em uma operação de rotina fora da nave, o desastre acontece. A nave é destruída, deixando Stone e Kowalsky à deriva no espaço, ligados um ao outro apenas por um cabo. Um silêncio ensurdecedor diz que eles perderam qualquer contato com a Terra - e qualquer chance de resgate. O medo vira pânico, consumindo rápido o pouco oxigênio que resta. O único meio de voltar pra casa talvez seja se jogar de vez na aterrorizante vastidão do espaço.
+
+--------------------------------------------------------------------------------------------
+
+(O grande hotel Budapeste)
+Ficha técnica: <br>
+Ano: 2014 <br>
+País de origem: Alemanha, Estados Unidos <br>
+Direção: Wes Anderson <br>
+Elenco: Ralph Fiennes, Tilda Swinton, Bill Murray <br>
+Gênero: Comédia <br>
+Música: Alexandre Desplat <br>
+Classificação: 14 anos <br>
+Duração: 100 min <br> <br>
+
+Sinopse: <br>
+No período entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma família e as transformações históricas durante a primeira metade do século XX.
+
+--------------------------------------------------------------------------------------------
+
+(Os oito odiados)
+Ficha técnica: <br>
+Ano: 2015 <br>
+País de origem: Estados Unidos <br>
+Direção: Quentin Tarantino <br>
+Elenco: Samuel L. Jackson, Kurt Russel, Jennifer Jason Leigh <br>
+Gênero: Faroeste <br>
+Música: Ennio Morricone <br>
+Classificação: 18 anos <br>
+Duração: 167 min <br> <br>
+
+Sinopse: <br>
+Durante uma nevasca, o carrasco John Ruth está transportando uma prisioneira, a famosa Daisy Domergue, que ele espera trocar por grande quantia de dinheiro. No caminho, os viajantes aceitam transportar o caçador de recompensas Marquis Warren, que está de olho em outro tesouro, e o xerife Chris Mannix, prestes a ser empossado em sua cidade. Como as condições climáticas pioram, eles buscam abrigo no Armazém da Minnie, onde quatro outros desconhecidos estão abrigados. Aos poucos, os oito viajantes no local começam a descobrir os segredos sangrentos uns dos outros, levando a um inevitável confronto entre eles.
+
+--------------------------------------------------------------------------------------------
+
+(La la land)
+Ficha técnica: <br>
+Ano: 2016 <br>
+País de origem: Estados Unidos <br>
+Direção: Damien Chazelle <br>
+Elenco: Ryan Gosling, Emma Stone, John Legend <br>
+Gênero: Musical <br>
+Música: Justin Hurwitz <br>
+Classificação: 12 anos <br>
+Duração: 128 min <br> <br>
+
+Sinopse: <br>
+Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.
+
+--------------------------------------------------------------------------------------------
+
+(A forma da água)
+Ficha técnica: <br>
+Ano: 2017 <br>
+País de origem: Estados Unidos <br>
+Direção: Guillermo del Toro <br>
+Elenco:	Sally Hawkins, Michael Shannon, Richard Jenkins <br>
+Gênero: Fantasia <br>
+Música: Alexandre Desplat <br>
+Classificação: 16 anos <br>
+Duração: 123 min <br> <br>
+
+Sinopse: <br>
+Uma história de amor num mundo mágico e misterioso na América em 1963. Elisa é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho. O mundo exterior do laboratório, no entanto, pode revelar-se mais perigoso para o homem anfíbio do que Elisa poderia ter previsto.
+
