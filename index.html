@@ -23,7 +23,7 @@
         .demo-card-wide > .mdl-card__title {
             color: #fff;
             height: 176px;
-            background: url('./images/card2_Up.jpg') center / cover;
+            background: url('./images/social.jpg') center/ cover;
         }
         .demo-card-wide > .mdl-card__menu {
             color: #fff;
@@ -31,7 +31,7 @@
         .demo-card-wide > .image1 {
             color: #fff;
             height: 176px;
-            background: url('./images/card1_Inception.jpg') center / cover;
+            background: url('./images/inception_poster-1000x1000.jpg') center / cover;
         }
     </style>
 </head>
@@ -47,17 +47,15 @@
                 <!-- Navigation. We hide it in small screens. -->
                 <nav class="mdl-navigation mdl-layout--large-screen-only">
                     <a class="mdl-navigation__link" href="oscarmts.html">Melhores Filmes Trilha Sonora</a>
-                    <a class="mdl-navigation__link" href="">Melhores Filmes Fotografia</a>
-                    <a class="mdl-navigation__link" href="">Indicados ao Próximo Oscar</a>
+                    <a class="mdl-navigation__link" href="oscarmf.html">Melhores Filmes Fotografia</a>
                 </nav>
             </div>
         </header>
         <div class="mdl-layout__drawer">
-            <span class="mdl-layout-title">Title</span>
+            <span class="mdl-layout-title">CineSpot</span>
             <nav class="mdl-navigation">
-                <a class="mdl-navigation__link" href="">Melhores Filmes Trilha Sonora</a>
-                <a class="mdl-navigation__link" href="">Melhores Filmes Fotografia</a>
-                <a class="mdl-navigation__link" href="">Indicados ao Próximo Oscar</a>
+                <a class="mdl-navigation__link" href="oscarmts.html">Melhores Filmes Trilha Sonora</a>
+                <a class="mdl-navigation__link" href="oscarmf.html">Melhores Filmes Fotografia</a>
             </nav>
         </div>
         <dialog class="mdl-dialog" id="esconder">
@@ -119,19 +117,29 @@
                     <div class="mdl-cell mdl-cell--4-col">
                         <div class="demo-card-wide mdl-card mdl-shadow--2dp">
                             <div class="mdl-card__title">
-                                <h2 class="mdl-card__title-text" style="color: #fff8e1">Filme: Up - Altas Aventuras</h2>
+                                <h2 class="mdl-card__title-text" style="color: #fff8e1">Filme: A Rede Social</h2>
                             </div>
                             <div class="mdl-card__supporting-text">
-                                Vencedor do Oscar de Melhor Trilha Sonora em 2010.
+                                Vencedor do Oscar de Melhor Trilha Sonora em 2011.
                             </div>
                             <div class="mdl-card__actions mdl-card--border">
                                 <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" onclick="detailRedeSocial()">
                                     Detalhes
                                 </a>
-                                <div id="Movie" style="display: none">
-                                    <p>
-                                        Ronan Felipe Nascimento de Souza
-                                    </p>
+                                <div id="Movie" style="display: none; color: #000000">
+                                    A Rede Social <br>
+                                    Ficha técnica: <br>
+                                    Ano: 2010 <br>
+                                    País de origem: Estados Unidos <br>
+                                    Direção: David Fincher <br>
+                                    Elenco: Jesse Eisenberg, Andrew Garfield, Justin Timberlake <br>
+                                    Gênero: Drama <br>
+                                    Música: Trent Reznor, Atticus Ross <br>
+                                    Classificação: 14 anos <br>
+                                    Duração: 121 min <br> <br>
+
+                                    Sinopse: <br>
+                                    Em uma noite de outono em 2003, Mark Zuckerberg, analista de sistemas graduado em Harvard, se senta em seu computador e começa a trabalhar em uma nova ideia. Apenas seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso da rede social Facebook. O sucesso, no entanto, o leva a complicações em sua vida social e profissional.
                                 </div>
                             </div>
                         </div>
@@ -142,15 +150,29 @@
                     <div class="mdl-cell mdl-cell--4-col">
                         <div class="demo-card-wide mdl-card mdl-shadow--2dp">
                             <div class="image1 mdl-card__title">
-                                <h2 class="mdl-card__title-text" style="color: #fff8e1">Filme: Inception</h2>
+                                <h2 class="mdl-card__title-text" style="color: #fff8e1">Filme: A Origem</h2>
                             </div>
                             <div class="mdl-card__supporting-text">
                                 Vencedor do Oscar de Melhor Fotografia em 2011.
                             </div>
                             <div class="mdl-card__actions mdl-card--border">
-                                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" onclick="detailInception()">
+                                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" onclick="detailAOrigem()">
                                     Detalhes
                                 </a>
+                                <div id="Movie1" style="display: none; color: #000000">
+                                    A Origem <br>
+                                    Ficha técnica: <br>
+                                    Ano: 2010 <br>
+                                    País de origem: Estados Unidos, Reino Unido <br>
+                                    Direção: Cristopher Nolan <br>
+                                    Elenco: Leonardo DiCaprio, Ken Watanabe. Joseph Gordon-Levitt <br>
+                                    Gênero: Aventura, Ação, Suspense  <br>
+                                    Música: Hans Zimmer <br>
+                                    Classificação: 14 anos <br>
+                                    Duração: 148 min <br> <br>
+                                    Sinopse: <br>
+                                    Dom Cobb (Leonardo DiCaprio) é um habilidoso ladrão, o melhor na perigosa arte da extração, o roubo de valiosos segredos das profundezas do subconsciente durante os sonhos das pessoas, quando a mente fica totalmente vulnerável. Essa rara habilidade de Cobb fez dele um cobiçado jogador nesse traiçoeiro novo mundo da espionagem corporativa, mas também fez dele um fugitivo internacional que perdeu tudo o que mais amava. Agora, uma chance de redenção foi oferecida a Cobb. Um último trabalho pode trazer sua vida normal de volta, mas somente se ele conseguir o impossível – inserção. Ao invés de fazer o roubo perfeito, Cobb e sua equipe de especialistas têm que fazer o oposto: a missão não é roubar uma ideia, mas sim plantar uma ideia. Se eles obtiverem sucesso, pode ser o crime perfeito. Mas nem mesmo um plano cuidadoso poderia prepará-los para um perigoso inimigo que parece prever cada movimento deles. Um inimigo que somente Cobb poderia prever.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -161,16 +183,27 @@
                     </div>
                     <div class="demo-card-square mdl-card mdl-shadow--2dp">
                         <div class="mdl-card__title mdl-card--expand">
-                            <h2 class="mdl-card__title-text">Avatar</h2>
+                            <h2 class="mdl-card__title-text">O Artista</h2>
                         </div>
                         <div class="mdl-card__supporting-text">
-                            Vencedor do Oscar de melhor fotografia em 2010.
-                            Do mesmo diretor de Titanic, James Cameron.
+                            Vencedor do Oscar de melhor trilha sonora em 2012.
                         </div>
                         <div class="mdl-card__actions mdl-card--border">
-                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" onclick="detailArtist()">
                                 Detalhes
                             </a>
+                            <div id="Movie2" style="display: none; color: #000000">
+                                O Artista <br>
+                                Ficha técnica: <br>
+                                Ano: 2011 <br>
+                                País de origem: França <br>
+                                Direção: Michel Hazanavicius <br>
+                                Elenco: Jean Dujardin, Bérénice Bejo <br>
+                                Gênero: Comédia <br>
+                                Música: Ludovic Bource <br>
+                                Classificação: 12 anos <br>
+                                Duração: 100 min <br> <br>
+                            </div>
                         </div>
                     </div>
                     <div class="mdl-cell--1-col"></div>
@@ -190,10 +223,10 @@
                     <div class="mdl-cell--1-col"></div>
                     <div class="demo-card-square-network mdl-card mdl-shadow--2dp">
                         <div class="mdl-card__title mdl-card--expand">
-                            <h2 class="mdl-card__title-text">The Social Network</h2>
+                            <h2 class="mdl-card__title-text">Blade Runner 2049</h2>
                         </div>
                         <div class="mdl-card__supporting-text">
-                            Vencedor do Oscar de melhor trilha sonora em 2011.
+                            Vencedor do Oscar de melhor trilha fotografia em 2018.
                         </div>
                         <div class="mdl-card__actions mdl-card--border">
                             <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
@@ -207,7 +240,6 @@
                 <div class="mdl-mini-footer--left-section">
                     <div class="mdl-logo">Engenharia de Software</div>
                     <ul class="mdl-mini-footer__link-list">
-                        <li><a href="">Sobre a iniciativa</a></li>
                         <!--Lembrar de ajustar ícones do github com nomes-->
                         <li><a class="git-icon" href="https://www.github.com/RonanFelipe"></a></li>
                         <li><a class="git-icon" href="https://www.github.com/gsantana99"></a></li>
