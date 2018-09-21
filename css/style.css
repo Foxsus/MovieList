@@ -36,7 +36,7 @@ h2 {
 
 .demo-card-square > .mdl-card__title {
     color: #fff;
-    background: url('../images/avatar.jpg');
+    background: url('../images/The-Artist.jpg') 50% 20% / cover;
 }
 
 .demo-card-square-hugo.mdl-card {
@@ -51,5 +51,5 @@ h2 {
 
 .demo-card-square-network > .mdl-card__title {
     color: #fff;
-    background: url('../images/social.jpg');
+    background: url('../images/blade-runner-2049-1280x640.jpg') 50% 1% / cover;;
 }
