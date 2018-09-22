@@ -125,3 +125,43 @@ function detailFilme16() {
     else
         text.style.display = "none";
 }
+
+function detailFilme17() {
+    var text = document.getElementById("Movie17");
+    if (text.style.display === "none")
+        text.style.display = "block";
+    else
+        text.style.display = "none";
+}
+
+function detailFilme18() {
+    var text = document.getElementById("Movie18");
+    if (text.style.display === "none")
+        text.style.display = "block";
+    else
+        text.style.display = "none";
+}
+
+function detailFilme19() {
+    var text = document.getElementById("Movie19");
+    if (text.style.display === "none")
+        text.style.display = "block";
+    else
+        text.style.display = "none";
+}
+
+function detailFilme20() {
+    var text = document.getElementById("Movie20");
+    if (text.style.display === "none")
+        text.style.display = "block";
+    else
+        text.style.display = "none";
+}
+
+function detailFilme21() {
+    var text = document.getElementById("Movie21");
+    if (text.style.display === "none")
+        text.style.display = "block";
+    else
+        text.style.display = "none";
+}
