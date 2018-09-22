@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9444f31c-88ff-4211-b32d-9ad98befcaeb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/js/script2.js" afterPath="$PROJECT_DIR$/js/script2.js" />
-      <change beforePath="$PROJECT_DIR$/oscarmf.html" afterPath="$PROJECT_DIR$/oscarmf.html" />
-      <change beforePath="$PROJECT_DIR$/oscarmts.html" afterPath="$PROJECT_DIR$/oscarmts.html" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oscarmf.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oscarmf.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oscarmf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="409" column="0" lean-forward="false" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="405" column="32" lean-forward="false" selection-start-line="405" selection-start-column="32" selection-end-line="405" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#span#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,6 +71,19 @@
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#3;n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="364">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -148,12 +159,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/oscarmts.html" />
         <option value="$PROJECT_DIR$/js/script2.js" />
         <option value="$PROJECT_DIR$/oscarmf.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -196,11 +207,6 @@
               <item name="IHC" type="b2602c69:ProjectViewProjectNode" />
               <item name="IHC" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IHC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IHC" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +253,7 @@
       <workItem from="1536875270701" duration="5058000" />
       <workItem from="1536954775951" duration="17247000" />
       <workItem from="1537133839696" duration="36000" />
-      <workItem from="1537306452092" duration="30205000" />
+      <workItem from="1537306452092" duration="31709000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionando animações.">
       <created>1536961116686</created>
@@ -368,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537573346981</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Actions details em cada card da página de fotografia.">
+      <created>1537576538633</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537576538633</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66338000" />
+    <option name="totallyTimeSpent" value="67842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -418,7 +431,8 @@
     <MESSAGE value="Página com melhor fotografia" />
     <MESSAGE value="Actions details em cda card." />
     <MESSAGE value="Actions details em cada card da página de trilha sonora." />
-    <option name="LAST_COMMIT_MESSAGE" value="Actions details em cada card da página de trilha sonora." />
+    <MESSAGE value="Actions details em cada card da página de fotografia." />
+    <option name="LAST_COMMIT_MESSAGE" value="Actions details em cada card da página de fotografia." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -547,21 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/indexFail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -637,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oscarmf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="409" column="0" lean-forward="false" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="405" column="32" lean-forward="false" selection-start-line="405" selection-start-column="32" selection-end-line="405" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#a#0;n#span#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -651,6 +650,22 @@
             <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#3;n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="364">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
         </state>
       </provider>
     </entry>
